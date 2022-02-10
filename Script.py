@@ -12,7 +12,7 @@ class script(object):
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
 ✯ OWNER: Ashish Sharma (@ashishsharmalegend) 
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/eliteflixbyashishsharma2>Ashish Sharma</a>
-✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
+✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [First Build]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Vincenzo💜 is not an open source project 
 - Contact my owner Ashish Sharma @ashishsharmalegend
