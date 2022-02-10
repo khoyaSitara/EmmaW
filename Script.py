@@ -15,7 +15,6 @@ class script(object):
     SOURCE_TXT = """<b>NOTE:</b>
 - Vincenzo 💜 is not an open source project 
 - Contact my owner Ashish Sharma @ashishsharmalegend
-- Team Eliteflix
 
 <b>DEVS:</b>
 - <a href=https://t.me/eliteflixbyashishsharma2>Team Eliteflix</a>"""
