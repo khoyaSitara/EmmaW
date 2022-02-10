@@ -4,17 +4,17 @@ class script(object):
 
 🧿Just Add me to Your Group As Admin, Whenever any Group user requests for the movie/series,I will found the movie via my database..😍😍"""
     
-    Owner: <a href=@ashishsharmalegend>Ashish Sharma</a>
+    Owner: Ashish Sharma (@ashishsharmalegend) 
         -Team Eliteflix
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ OWNER: Ashish Sharma
+✯ OWNER: Ashish Sharma (@ashishsharmalegend) 
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/eliteflixbyashishsharma2>Ashish Sharma</a>
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v1.0.1 [ 𝙱𝙴𝚃𝙰 ]"""
     SOURCE_TXT = """<b>NOTE:</b>
 - Vincenzo 💜 is not an open source project 
-- Contact my owner @ashishsharmalegend
+- Contact my owner Ashish Sharma @ashishsharmalegend
 - Team Eliteflix
 
 <b>DEVS:</b>
