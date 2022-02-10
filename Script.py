@@ -4,8 +4,9 @@ class script(object):
 
 💜 Owner: Ashish Sharma (@ashishsharmalegend)
 
-🧿Just Add me to Your Group As Admin, Whenever any Group user requests for the movie/series,I will found the movie via my database..😍😍""" 
+🔮Want to add your files in bot go to Help/autofilter
 
+🧿Just Add me to Your Group As Admin, Whenever any Group user requests for the movie/series,I will found the movie via my database..😍😍""" 
     HELP_TXT = """𝙷𝙴𝚈 {}
 𝙷𝙴𝚁𝙴 𝙸𝚂 𝚃𝙷𝙴 𝙷𝙴𝙻𝙿 𝙵𝙾𝚁 𝙼𝚈 𝙲𝙾𝙼𝙼𝙰𝙽𝙳𝚂."""
     ABOUT_TXT = """✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
