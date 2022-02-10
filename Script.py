@@ -3,7 +3,7 @@ class script(object):
 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, I am a Movie Searcher/Filter Bot..
 
 💜 Owner: Ashish Sharma (@ashishsharmalegend) 
- -Team Eliteflix
+
 
 🧿Just Add me to Your Group As Admin, Whenever any Group user requests for the movie/series,I will found the movie via my database..😍😍""" 
 
