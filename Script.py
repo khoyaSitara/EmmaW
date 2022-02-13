@@ -2,9 +2,7 @@ class script(object):
     START_TXT = """𝙷𝙴𝙻𝙾 {},
 𝙼𝚈 𝙽𝙰𝙼𝙴 𝙸𝚂 <a href=https://t.me/{}>{}</a>, I am a Movie Searcher/Filter Bot..
 
-💜 Owner: Ashish Sharma (@ashishsharmalegend)
-
-🔮Want to add your files in bot go to Help/autofilter
+🔮Want to add your files in bot go to Help/Auto filter and follow the process
 
 🧿Just Add me to Your Group As Admin, Whenever any Group user requests for the movie/series,I will found the movie via my database..😍😍""" 
     HELP_TXT = """𝙷𝙴𝚈 {}
