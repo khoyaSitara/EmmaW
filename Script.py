@@ -16,7 +16,7 @@ class script(object):
 - Contact my owner Ashish Sharma @ashishsharmalegend
 
 <b>DEVS:</b>
-- <a href=https://t.me/eliteflixbyashishsharma2>Team Eliteflix</a>"""
+- <a href=https://t.me/eliteflixbyashishsharma2>Team Ashish</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Vincenzo💜 will respond whenever a keyword is found the message
