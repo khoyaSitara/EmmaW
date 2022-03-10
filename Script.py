@@ -99,7 +99,7 @@ This module only works for my admins
 ★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: 211 MB𝙼𝚒𝙱
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
-Total Members = <code>{}</code>
+Total Members = <(code>{}</code>) 
 Added By - {}
 """
     LOG_TEXT_P = """#NewUser
