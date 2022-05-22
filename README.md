@@ -6,8 +6,8 @@
 </h1>
 
 
-Telegram Account- @ashishsharmalegend
-Bot Username For test- @vincenzo_here_bot
+- Telegram Account- @ashishsharmalegend
+-Bot Username For test- @vincenzo_here_bot
 
 ## Features
 
