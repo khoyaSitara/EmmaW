@@ -7,7 +7,7 @@
 
 
 - Telegram Account- @ashishsharmalegend
--Bot Username For test- @vincenzo_here_bot
+- Bot Username For test- @vincenzo_here_bot
 
 ## Features
 
